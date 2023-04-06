@@ -1,0 +1,70 @@
+History of Python/Guido Van Rossum:
+-----------------------------------
+>Rossum used to work with a research institute(CWI)Centrum Wiskunde & Informatica
+
+>rossum was the part of team that developed ABC language in CWI.
+
+>Amoeba project was started in early 80's which was a distributed os, rossum was also a team member of this project.
+
+>amoeba team had to suffered for administration by writting shell scripts or a c program.
+ 
+>In 1989,rossum started creating a new language for easy adminstration of amoeba os.
+
+>1991,first version of this language was introduced and it was Python.
+
+Why Named Python?
+----------------
+>Python was named for the BBC TV show Monty Python's Flying Circus.
+
+>in 2006,a new logo of python was launched having 2 snakes.(just to link it with dict meaning)
+
+1991-->python
+
+2001--->rossum decided to start his own organization to distribute and maintain python.
+	Python Software Foundation(PSF)
+	url:www.python.org
+
+2003--->django was introduced for web app dev.
+2005--->django was released publically.
+
+2005--->rossum joined Google.
+
+2007--->google started developing sklearn lib for ML
+
+2010-11--->Google released it publically
+
+2012--->rossum left google.
+
+2015--->google introduced tensorflow library for deep larning.
+
+2017--->Google released it publically
+
+
+Python 0.9.0 - February 20, 1991
+.
+.
+Python 1.0 - January 1994
+.
+.
+Python 2.0 - October 16, 2000
+.
+.
+Python 3.0 - December 3, 2008
+.
+.
+.
+Python 3.7 - June 27, 2018
+
+Python 3.8-  30 Sept,2019
+
+Python 3.9-  5 Oct,2020
+
+Real time app based on python:
+------------------------------
+>mozila
+>instagram
+>nasa website
+>quora
+>you tube
+
+etc.

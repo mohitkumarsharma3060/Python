@@ -1,0 +1,17 @@
+"\n"--->new line in output
+"\t"--->tab space in output
+
+print():
+--------
+>it is a library function which is bydefault connected to system console(shell).
+
+>it can accept 0-N arguments of any type
+
+>internally it uses sep and end keyword args:
+	sep is used b/w args
+	end is used after last arg
+	both are string type
+	both can not be repeated
+	both must be written after positional args
+	default value of sep is " "(space)
+	default value of end is "\n"(new line)

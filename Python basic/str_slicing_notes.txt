@@ -1,0 +1,26 @@
+[start:stop:step]
+
+Default values:
+	step:+1
+		>start--->0
+		>stop----->len
+	step:-1
+		>start---->-1
+		>stop----->-(len+1)
+
+if step is not given,
+	default value of step is +1	
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+Myself:
+-------
+Aditya
+13+
+
+
+Python:
+-------
+	>It was first released in 1991 by Guido Van Rossum at CWI (research org) in Netherlands.
+
+	>It was originally developed for amoeba OS.
+
+	>It takes less time to create applications.
+
+	>It is easy to understand.
+
+	>The only downside of Python is ,it's slow execution.
+
+	>It is high level,Interpreted,general purpose,open source,multi-paradigms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

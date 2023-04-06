@@ -1,0 +1,11 @@
+string:
+------
+>it is sequence of immutable(unmodifiable) characters(letters,digits,symbols,whitespace)
+
+>python supports unicode string
+
+>there are 4 ways to represent string
+    1."....."
+    2.'.....'
+    3."""..."""
+    4.'''...'''

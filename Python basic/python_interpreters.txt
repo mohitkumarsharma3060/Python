@@ -1,0 +1,16 @@
+Python Implmentations:
+----------------------
+>Cpython(default)
+	it is written in c language and we may use code of c language using cython library.
+
+>Jython
+	it is written in java language and we may use java code in python directly.
+
+>IronPython
+	it is written in .net and we may use .net code in python.
+
+>PyPython(PyPy)
+	it is written in python itself and uses JIT that improves performenmce of execution.
+
+etc.
+

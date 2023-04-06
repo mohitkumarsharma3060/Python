@@ -1,0 +1,36 @@
+Functions:
+----------
+len(str)  -->returns len of arg str
+max(str)  -->returns max char of arg str according to dict order
+min(str)  -->returns min char of arg str according to dict order
+
+Commonly Used Methods->
+-----------------------
+capitalize()->	make first character capital and rest lower
+lower()->	make all lower
+upper()->	make all upper
+title()->	make first char of each word capital ,rest lower
+swapcase()->	swap the case of each char
+format()->	use to format a string
+index()->	lowest index of argumneted char
+count()->	frequency of argumented char
+startswith()->  true if calling string starts with arg str
+endswith()->	true if calling string ends with arg str
+
+Comparisions->
+--------------
+==
+!=
+>
+<
+>=
+<=
+
+search->
+--------
+in operator
+
+
+Slicing->
+-----------
+[start:stop:step]
